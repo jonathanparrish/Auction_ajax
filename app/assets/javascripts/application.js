@@ -17,3 +17,4 @@
 //= require_tree .
 
 $(function(){ $(document).foundation(); });
+$setInterval(function () {alert("15 seconds and I will refresh");}, 5000);
